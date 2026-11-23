@@ -4,6 +4,10 @@
 
 Jogo de aviões em pygame, no estilo do 1945 Air Force
 
+## Integrantes
+- João Guilherme Farah
+- Andre Conrado Pucci
+
 ## Como rodar
 ```
 pip install pygame-ce

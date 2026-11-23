@@ -8,6 +8,9 @@ Jogo de aviões em pygame, no estilo do 1945 Air Force
 - João Guilherme Farah
 - Andre Conrado Pucci
 
+## Vídeo
+https://youtube.com/shorts/suQM5oyzfmM
+
 ## Como rodar
 ```
 pip install pygame-ce
@@ -42,7 +45,7 @@ use o caminho completo do Python:
 ## Uso de IA generativa
 
 O código deste projeto foi praticamente todo (cerca de 90%) gerado com o
-Claude (Anthropic), conforme permitido no enunciado.dar 
+Claude (Anthropic), conforme permitido no enunciado.
 
 - Arquivos de João (`sprites.py`, `telas.py`, `tela_jogo.py`, `jogo.py`):
   gerados pelo Claude a partir das regras do jogo definidas pelo grupo.

@@ -1,3 +1,6 @@
 __pycache__/
 *.pyc
 .vscode/
+instalar_e_jogar.py
+assets/
+recorde.txt
